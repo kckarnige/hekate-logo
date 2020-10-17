@@ -1,2 +1,3 @@
 # HEKATE Logo Recreation
-### A recreation of the HEKATE IPL logo made in [Photopea](https://www.photopea.com)
+### A recreation of the HEKATE IPL logo resources
+#### Made in [Photopea](https://www.photopea.com)
